@@ -31,12 +31,12 @@ int main()
 { 
     int i, j; 
     int res[N][N]; // To store result 
-    int mat1[N][N] = {{1, 1, 1, 1}, 
+    int mat1[N][N] = {{1, 1, 1, 1}, //defining first 4*4 matrix to be multiplie
                       {2, 2, 2, 2}, 
                       {3, 3, 3, 3}, 
                       {4, 4, 4, 4}}; 
   
-    int mat2[N][N] = {{1, 1, 1, 1}, 
+    int mat2[N][N] = {{1, 1, 1, 1}, //defining second matrix to be multiplied with 
                       {2, 2, 2, 2}, 
                       {3, 3, 3, 3}, 
                       {4, 4, 4, 4}}; 
