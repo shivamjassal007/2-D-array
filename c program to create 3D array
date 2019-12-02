@@ -22,7 +22,7 @@
         {
           for (int k = 0; k < 2; ++k)
           {
-            printf("test[%d][%d][%d] = %d\n", i, j, k, test[i][j][k]);
+            printf("test[%d][%d][%d] = %d\n", i, j, k, test[i][j][k]); //Displaying values of resultant matrix
           }
         }
       }
