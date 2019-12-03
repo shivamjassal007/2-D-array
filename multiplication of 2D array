@@ -37,7 +37,7 @@
             {
                 result[i][j] = 0;
             }
-        // Multiplying matrices a and b and
+        // Multiplying matrices a and b and saving it into result matrix
         // storing result in result matrix
         for(i=0; i<r1; ++i)
             for(j=0; j<c2; ++j)
