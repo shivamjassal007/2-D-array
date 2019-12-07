@@ -41,7 +41,7 @@ int main()
                       {3, 3, 3, 3}, 
                       {4, 4, 4, 4}}; 
   
-    multiply(mat1, mat2, res); 
+    multiply(mat1, mat2, res); // function to multiply that is a*b=c will be multiply(a,b,c)
   
     cout << "Result matrix is \n"; 
     for (i = 0; i < N; i++) 
