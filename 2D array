@@ -7,7 +7,7 @@ int main(){
    for(i=0; i<3; i++) {
       for(j=0;j<3;j++) {
          printf("Enter value for disp[%d][%d]:", i, j);
-         scanf("%d", &disp[i][j]);
+         scanf("%d", &disp[i][j]); //enter the desired values you want to be in the matrix
       }
    }
    //Displaying array elements
