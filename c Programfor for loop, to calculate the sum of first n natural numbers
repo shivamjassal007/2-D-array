@@ -9,7 +9,7 @@ int main()
     // for loop terminates when num is less than count
     for(count = 1; count <= num; ++count)
     {
-        sum += count;
+        sum += count; //increment the sum when count gets a value
     }
     printf("Sum = %d", sum);
     return 0;
